@@ -36,4 +36,4 @@ console.log(tomBMI);
 var jerryBMI = jerryWeight / jerryHeight ** 2;
 console.log(jerryBMI);
 
-console.log("Does Tom have a higher BMI than Jerry? " + jerryBMI < tomBMI);
+console.log("Does Tom have a higher BMI than Jerry? " + (jerryBMI < tomBMI));
